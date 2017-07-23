@@ -1,0 +1,22 @@
+ls -ah	显示当前目录文件
+mkdir	创建目录
+rmdir	删除目录
+pwd		显示当前目录路径
+cd		跳转到目录
+
+git rm 删除文件名
+git commit -m "备注内容"	提交
+git status 没有被git管理或者被修改过的文件
+git config --list	查看Git的配置信息
+git branch	获取分支列表
+git checkout	切换到对应分支
+git push 本地仓库修改推送到目标仓库
+git merge release-0.1	合并仓库
+git branch -d release-0.1	删除单个仓库
+gitk	图形的显示项目的历史
+
+oh my zsh
+
+远程仓库 方法1111
+关联后，使用命令git push -u origin master第一次推送master分支的所有内容；
+此后，每次本地提交后，只要有必要，就可以使用命令git push origin master推送最新修改；
