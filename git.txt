@@ -16,7 +16,7 @@ git branch -d release-0.1	删除单个仓库
 gitk	图形的显示项目的历史
 
 oh my zsh
-
+3.增加文案3
 远程仓库 方法1111------2-----3
 关联后，使用命令git push -u origin master第一次推送master分支的所有内容；
 此后，每次本地提交后，只要有必要，就可以使用命令git push origin master推送最新修改；
